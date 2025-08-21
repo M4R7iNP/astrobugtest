@@ -1,0 +1,9 @@
+.root {
+	width: 200px;
+	height: 200px;
+	background-color: #f0f0f0;
+}
+
+.hovering {
+	outline: 2px dashed #9aa0a6;
+}
